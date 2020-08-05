@@ -3,3 +3,4 @@
 
 ***Screenshots***
 <img src="sc1.png">
+<img src="sc2.png">
